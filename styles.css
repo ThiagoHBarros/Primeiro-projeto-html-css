@@ -1,0 +1,77 @@
+.header-title
+{
+    background-color: blue;
+    color: white;
+    font-size: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+
+}
+
+body {
+    margin: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(211, 223, 238);
+}
+
+.card
+{
+
+    background-color: rgb(255, 255, 255);
+    width: 1100px;
+    margin: 0 auto;
+    margin-top: 20px;
+    margin-bottom: 40px;
+    padding: 20px 20px 20px 20px;
+    border-radius: 60px;
+    box-shadow: 5px 8px  rgb(36, 32, 32);
+    border: 2px solid #000;
+}
+
+.card-title {
+
+    font-size: 20px;
+    font-weight: bold;
+    padding-bottom: 20px;
+
+}
+.card content{
+    text-align: justify;
+    padding-bottom: 20px;
+
+
+}
+
+button{
+
+    background-color: blue;
+    color: white;
+    padding-top: 5px 5px 5px 5px;
+}
+
+footer{
+
+    background-color: blue;
+    color: white;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    padding: 5px 5px 5px 5px;
+    text-align: center;
+
+}
+.form-card{
+
+width: 500px;
+
+
+}
+
+.form-input {
+
+    display: grid;
+
+
+
+}
